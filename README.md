@@ -8,10 +8,9 @@ This quick program is to have the program display "Hello World" as output.
 
 The print function is used for this program.
 
-The language used was Python.
+The language used was Python through Visual Studio Code.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3 Schools](https://www.w3schools.com/)
 * [Stack Overflow](https://stackoverflow.com/)
